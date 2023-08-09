@@ -11,4 +11,4 @@ Olá, Bem-vindo ao meu projeto de portfólio! Um exercício inicial para aplicar
 
 ## Feito por:
 
-### Joana Santos
+### potiisa :)
